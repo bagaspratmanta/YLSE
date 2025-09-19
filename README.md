@@ -2,7 +2,7 @@
 
 A powerful and safe save editor for Youtubers Life that lets you modify your game progress without corrupting NPC appearances or game data.
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![License](https://img.shields.io/badge/license-GPL--3.0-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)
 ![Python](https://img.shields.io/badge/python-3.13-green.svg)
 
@@ -146,5 +146,6 @@ If you encounter any issues:
 3. Include your save file (if comfortable sharing) for better debugging
 
 ---
+
 
 **Disclaimer**: This is an unofficial save editor. Youtubers Life is a trademark of U-Play Online. This software is provided "as is" without warranty for educational and personal use only.
