@@ -1,0 +1,11 @@
+# Python dependencies for Youtubers Life Save Editor
+# No external packages required - uses only Python standard library
+# Tkinter (GUI) - included with Python
+# gzip - standard library
+# base64 - standard library
+# json - standard library
+# os - standard library
+# tempfile - standard library
+
+# For building executable with PyInstaller (development only)
+pyinstaller>=6.0.0
